@@ -350,7 +350,7 @@ const App = () => {
     <div className="flex">
       <div className="w-[25vw] h-[100vh] pl-9 pt-10">
         <label htmlFor="radius">
-          Radius of circle between 100 to 3000 meters{" "}
+          Radius of circle between 100 to 3000 meters
         </label>
         <input
           type="number"
